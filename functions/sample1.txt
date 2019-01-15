@@ -1,0 +1,4 @@
+this is demo program
+this program specifies the file reading
+count the occurrence of words in the file
+this is simple concept

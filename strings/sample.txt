@@ -1,0 +1,4 @@
+This is demo for string manipulation.
+This program will count number of Lower case Letters.
+Count the Upper case letters
+thank you

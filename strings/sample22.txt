@@ -1,0 +1,6 @@
+Hai! Welcome to Brain Stack Solutions Python Course
+this is demo for splitting the file's mail line only
+From vani@brainstack.in Mon Nov 6 12:50:55 2017
+From karthi@brainstack.in Mon Nov 6 13:50:55 2017
+From anand@brainstack.in Mon Nov 6 14:50:55 2017
+Thank you
